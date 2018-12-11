@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">RecyclerViewLessonDec02</string>
+  <string name="number_viewholder_button_hint">Change Color</string>
+</resources>
